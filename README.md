@@ -1,6 +1,6 @@
 # Mitigating Hallucination of Large Vision-Language Models via Dynamic Logits Calibration
 
-[![arXiv](https://img.shields.io/badge/arXiv-2506.07368-red)]()
+[![arXiv](https://img.shields.io/badge/arXiv-2506.21509-red)](https://arxiv.org/abs/2506.21509)
 [![Code](https://img.shields.io/badge/Code-Available-green)](https://github.com/JiaheChen2002/DLC)
 
 > **Official PyTorch implementation of "Mitigating Hallucination of Large Vision-Language Models via Dynamic Logits Calibration"**
