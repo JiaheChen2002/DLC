@@ -9,6 +9,7 @@
 ## 🎉 News
 
 - **[2025.06]** 🔥 Our paper is now available on arXiv!
+- **[2024.08]** ⌨ We release the relevant code！
 
 ## 🎯 Overview
 
